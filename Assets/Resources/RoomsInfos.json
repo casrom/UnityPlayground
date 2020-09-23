@@ -1,0 +1,145 @@
+{"Items":
+[
+  {
+    "name":"room",
+    "dimension":{
+      "x":20.0,    "y":8.0,    "z":20.0
+    },
+    "doorAnchors":[
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":1.0
+        }
+      },
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":-10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":-1.0
+        }
+      }
+    ]
+  },
+
+
+  {
+    "name":"room4",
+    "dimension":{
+      "x":20.0,    "y":8.0,    "z":20.0
+    },
+    "doorAnchors":[
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":1.0
+        }
+      },
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":-10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":-1.0
+        }
+      },
+      {
+        "position":{
+          "x":-10.0,    "y":0.0,    "z":0.0
+        },
+        "direction":{
+          "x":-1.0,    "y":0.0,    "z":0.0
+        }
+      },
+      {
+        "position":{
+          "x":10.0,    "y":0.0,    "z":0.0
+        },
+        "direction":{
+          "x":1.0,    "y":0.0,    "z":0.0
+        }
+      }
+    ]
+  },
+
+  {
+    "name":"corridor",
+    "dimension":{
+      "x":8.0,    "y":8.0,    "z":36.0
+    },
+    "doorAnchors":[
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":18.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":1.0
+        }
+      },
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":-18.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":-1.0
+        }
+      }
+    ]
+  },
+
+  {
+    "name":"room_large",
+    "dimension":{
+      "x":40.0,    "y":8.0,    "z":40.0
+    },
+    "doorAnchors":[
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":20.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":1.0
+        }
+      },
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":-20.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":-1.0
+        }
+      }
+    ]
+  },
+
+  {
+    "name":"room_green",
+    "dimension":{
+      "x":20.0,    "y":8.0,    "z":20.0
+    },
+    "doorAnchors":[
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":1.0
+        }
+      },
+      {
+        "position":{
+          "x":0.0,    "y":0.0,    "z":-10.0
+        },
+        "direction":{
+          "x":0.0,    "y":0.0,    "z":-1.0
+        }
+      }
+    ]
+  }
+]
+}

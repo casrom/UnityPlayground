@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 565a912927c75d3459dac352e350439c, type: 3}
+  m_Name: cave
+  m_EditorClassIdentifier: 
+  roomName: cave
+  prefab: {fileID: 2596007232781368196, guid: 1c2f8567eb4d58644b25f733e7bde173, type: 3}
+  dimension: {x: 40, y: 7, z: 6}
+  doorAnchors:
+  - position: {x: 20, y: 0, z: 0}
+    direction: {x: 1, y: 0, z: 0}
+  - position: {x: -20, y: 0, z: 0}
+    direction: {x: -1, y: 0, z: 0}
+  logicalNeighbors: []

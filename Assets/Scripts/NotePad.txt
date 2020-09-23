@@ -1,0 +1,84 @@
+﻿A mage? who's stuck in his lab
+Infinite rooms
+
+A device that tracks one celestial body, and harness certain power from that particular body.
+The type of power harnessed depends on the type of the body.
+	- auto track?
+	- manual track?
+	- untrackable? -> change in energy type
+
+Cycle based
+Rougue like with a storyline
+
+
+STORY
+
+In the beginning, there was Void.
+Then there was Light.
+
+
+I found out I could travel through the mirror and enter into another dimension
+The dimension I enter depends on the placement of the mirror, and the time of the day
+
+Within each dimension is a limited space
+Where my body does not exists?
+STORY progression
+With more rooms I enter, my mental state changes?
+
+
+Have an augmentable portal
+
+
+World Panel:
+Void(implicit)
+the Sun (light)
+the Triangle (geometry)
+the Clock/Loop (time)
+
+Person Panel:
+
+
+
+Dimension Rooms:
+- Combat Rooms
+
+- Puzzle Rooms
+
+- Survival Rooms?
+
+- Story Rooms
+
+
+Connections Between Rooms
+
+
+
+MECHANICS:
+1. Portal
+	- Activation
+		- the placement of the portal and time of activation determines the destination
+		- the player have to map out their dimension map to navigate among different destinations
+	
+	- Power Supply
+		- PSU in the basement level?
+		- Power level limits duration of the portal opening?
+
+2. Portal Destinations
+	- Combat levels
+		- Enemies spawned due to the opening of the portal?
+		- Enemy interactions between different realms?
+		- Enemy can enter into the player's room and causes corruption?
+
+		- What happens if the player dies?
+			- World line correction brings the player back when the portal closes
+			- The CORRECTION disallow the existence of non-native objects in other dimensions
+
+		- The portal respawn to somewhere else? which the player will have to find?
+		- The portal collapse into portable form and sustain with reminant energy, used as player "Health"?
+
+	- Story Levels
+		- Story progression
+		- Wonders
+
+3. Devices
+		- Repeller that repells swarm for a duration that can be recharged

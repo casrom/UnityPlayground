@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8837d4c9a3ac3bc4b9a43ef66fc3f6d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - material: {instanceID: 0}
+  - player: {instanceID: 0}
+  - MCShader: {fileID: 7200000, guid: ce839b5c4bc1e6d459273ff1c12b48c0, type: 3}
+  - PerlinShader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

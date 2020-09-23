@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: RoomsInfoManager
+  m_EditorClassIdentifier: Assembly-CSharp::RoomsInfoManager
+  list:
+  - {fileID: 11400000, guid: 3f4ccfa9b6578334aa57ffb0ae65c34d, type: 2}
+  - {fileID: 11400000, guid: 967128e4cd67440448de05f8d1a223e4, type: 2}
+  - {fileID: 11400000, guid: 9740e783f7d1e114f8a231d7f9f5fad1, type: 2}
+  - {fileID: 11400000, guid: 76f868ebee0def546819e0affd9ce698, type: 2}
+  - {fileID: 11400000, guid: 870f4287773630f4399d64eee1caf0d9, type: 2}

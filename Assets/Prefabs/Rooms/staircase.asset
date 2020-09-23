@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 565a912927c75d3459dac352e350439c, type: 3}
+  m_Name: staircase
+  m_EditorClassIdentifier: 
+  roomName: staircase
+  prefab: {fileID: 515652143456806471, guid: 7d44fd48eb7d186439e1557415e2ecb4, type: 3}
+  dimension: {x: 20, y: 16, z: 20}
+  doorAnchors:
+  - position: {x: 10, y: 9, z: 0}
+    direction: {x: 1, y: 0, z: 0}
+  - position: {x: 10, y: 0, z: 0}
+    direction: {x: 1, y: 0, z: 0}
+  logicalNeighbors:
+  - {fileID: 11400000, guid: 967128e4cd67440448de05f8d1a223e4, type: 2}
+  - {fileID: 11400000, guid: 967128e4cd67440448de05f8d1a223e4, type: 2}
